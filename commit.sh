@@ -2,7 +2,7 @@
 
 MESSAGE=$1
 
-git add *
+git add -A *
 
 git commit -m "$MESSAGE"
 
